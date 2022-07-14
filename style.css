@@ -1,11 +1,5 @@
 
 
-.menu {
-  position: fixed;
-  top: 30px;
-  left: 0;
-  background-color: gold;
-}
 .menu__list {
   display: flex;
   flex-direction: column;
