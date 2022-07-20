@@ -11,8 +11,6 @@
   flex-direction: column;
   list-style: none;
 }
-/* .menu__item {
-} */
 .menu__link {
   display: flex;
   padding: 5px 15px;
